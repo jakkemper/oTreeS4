@@ -1,37 +1,29 @@
-## Welcome to the oTreeS4 Page
+## oTreeS4 - The oTree Seminar Series in Social Science 
 
-You can use the [editor on GitHub](https://github.com/thegempie/oTreeS4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are a group of social scientists working with the open source research platform oTree. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our aims are: 
+- To facilitate knowledge exchange between oTree-users 
+- To improve the quality of technical oTree solutions 
+- To distribute best practices in research using oTree 
+- To make oTree and the potential it has for social science more widely known 
 
-### Markdown
+We intend to create a research community of oTree users that can learn from each other. 
+We aim to do so through a mailing list, an online repository of oTree code and snippets and through organizing oTree S4 - oTree Seminar Series in Social Science.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GitHub Repository
+We created a [GitHub repository](https://github.com/thegempie/oTreeS4_repo/) of oTree best practices and short example scripts extending the existing oTree functions from the official oTree samples library. We will also release information on news and upcoming events there. 
 
-```markdown
-Syntax highlighted code block
+### Mailing List
 
-# Header 1
-## Header 2
-### Header 3
+The mailing list allows oTree users to get monthly updates on oTree best practices, recent publications and working papers as well as ready-built oTree applications. Together with the seminar series, we intend to provide a common space for oTree users where researchers can ask for code-reviews and general help. If you wish to be a part of our growing community you can [sign up for our mailing list here](link). 
 
-- Bulleted
-- List
+### Seminar Series
 
-1. Numbered
-2. List
+Finally, through the oTree Seminar Series in Social Science researchers will be able to present on the technical aspects of studies conducted with oTree. Our intention is to organize paper presentations by giving more focus on the oTree code. Ideally, this seminar series will have an experienced oTree programmer as a discussant, who will prepare a code review of the work presented and who will share their insights with the speaker and the audience. This creates value for the speakers, who will improve their code quality, as well as for the audience, who will be able to learn best practice examples from these presentations. To our knowledge, no such community of oTree users exists in the social science community. We want to become a common point of contact for all social scientists who work with oTree, regardless of their discipline. We therefore aim to attract any researcher who is interested in experimental methods and computational social science. If you have any questions or suggestions, please feel free to contact us at XXX. 
 
-**Bold** and _Italic_ and `Code` text
+### The team
 
-[Link](url) and ![Image](src)
-```
+[Đorđe Milosav](https://ie.linkedin.com/in/%C4%91or%C4%91e-milosav-37b2b317b) - PhD Candidate, Trinity College Dublin 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thegempie/oTreeS4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Jakob Kemper](https://udue.de/kemper) - PhD candidate, University of Duisburg-Essen
