@@ -1,5 +1,3 @@
-## oTreeS4 - The oTree Seminar Series in Social Science 
-
 We are a group of social scientists working with the open source research platform oTree. 
 
 Our aims are: 
@@ -9,7 +7,7 @@ Our aims are:
 - To make oTree and the potential it has for social science more widely known 
 
 We intend to create a research community of oTree users that can learn from each other. 
-We aim to do so through a mailing list, an online repository of oTree code and snippets and through organizing oTree S4 - oTree Seminar Series in Social Science.
+We aim to do so through a GitHub repository of oTree code and snippets, a mailing list, and through organizing oTree S4 - oTree Seminar Series in Social Science.
 
 ### GitHub Repository
 We created a [GitHub repository](https://github.com/thegempie/oTreeS4_repo/) of oTree best practices and short example scripts extending the existing oTree functions from the official oTree samples library. We will also release information on news and upcoming events there. 
