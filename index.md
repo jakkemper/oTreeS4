@@ -24,6 +24,6 @@ Finally, through the oTree Seminar Series in Social Science researchers will be 
 
 ### The team
 
-[Đorđe Milosav](https://ie.linkedin.com/in/%C4%91or%C4%91e-milosav-37b2b317b) - PhD Candidate, Trinity College Dublin 
+[Đorđe Milosav](https://www.tcd.ie/triss/people/phdstudents/milosav.php) - PhD Candidate, Trinity College Dublin 
 
 [Jakob Kemper](https://udue.de/kemper) - PhD candidate, University of Duisburg-Essen
