@@ -1,4 +1,4 @@
-## oTreeS4 - The oTree Seminar Series in Social Science 
+## OTREE S4 - The oTree Seminar Series in Social Science 
 
 We are a group of social scientists working with the open source research platform oTree. 
 
@@ -16,7 +16,7 @@ We created a [GitHub repository](https://github.com/thegempie/oTreeS4_repo/) of 
 
 ### Mailing List
 
-The mailing list allows oTree users to get monthly updates on oTree best practices, recent publications and working papers as well as ready-built oTree applications. Together with the seminar series, we intend to provide a common space for oTree users where researchers can ask for code-reviews and general help. If you wish to be a part of our growing community you can [sign up for our mailing list here](link). 
+The mailing list allows oTree users to get monthly updates on oTree best practices, recent publications and working papers as well as ready-built oTree applications. Together with the seminar series, we intend to provide a common space for oTree users where researchers can ask for code-reviews and general help. If you wish to be a part of our growing community you can [sign up for our mailing list here](https://www.listserv.dfn.de/sympa/subscribe/otree-s4). 
 
 ### Seminar Series
 
