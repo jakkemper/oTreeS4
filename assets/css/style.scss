@@ -20,13 +20,16 @@ header {
 
 h1 {
   font-family: "Bodoni, Georgia, serif";
-  color: #38b6ff;}
+  }
 
 
 h2 {
   font-family: "Bodoni, Georgia, serif";
-  color: #38b6ff;}
+  }
 
 body {
   font-family: ""Josefin Sans", Josefin, Geneva, Verdana, sans-serif"
 }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #38b6ff;}
