@@ -1,4 +1,5 @@
-## oTreeS4 - The oTree Seminar Series in Social Science 
+## oTreeS4
+### The oTree Seminar Series in Social Science 
 
 We are a group of social scientists working with the open source research platform oTree. 
 
